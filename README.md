@@ -3,7 +3,7 @@
 Simple example using Bootstrap, Vue and Go
 
 ## Run
-``sh
+```sh
 npm run build
 go run ./main.go
-``
+```
